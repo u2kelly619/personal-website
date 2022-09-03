@@ -17,7 +17,7 @@
                 <h3 class="fw-bold">WhisperNote 交換日記平台</h3>
                 <p>2022.07 - 2022.08</p>
                 <p>前端工程師</p>
-                <p><a href="#" class="link">See Demo Video</a></p>
+                <p><a href="https://www.youtube.com/watch?v=n8-UBPNITsA" target="_blank" class="link">See Demo Video</a></p>
                 <ul>
                     <li>開發交換日記平台，實作新增修改刪除日記、日記分類和好友，及串接後端等功能</li>
                     <li>使用技術：Vue.js (Vue 3)/ Vue CLI/ Vue Router/ Vuex、HTML、CSS、JavaScript、Tailwind</li>
@@ -32,7 +32,7 @@
                 <h3 class="fw-bold">2022麥塊建築大賽-明道場邀請賽活動網頁</h3>
                 <p>2022.07</p>
                 <p>小組負責人、前端工程師</p>
-                <p><a href="http://mingdao.ntc.im/" class="link">mingdao.ntc.im</a></p>
+                <p><a href="http://mingdao.ntc.im/" target="_blank" class="link">mingdao.ntc.im</a></p>
                 <ul>
                     <li>設計並開發遊戲風格網頁，讓使用者了解該賽詳細資訊</li>
                     <li>使用技術：Vue.js (Vue 3)/ Vue CLI/ Vue Router、HTML、CSS、JavaScript、Bootstrap 5</li>
