@@ -13,7 +13,7 @@
           </div>
           <div class="col-12 col-md-8 col-lg-4">
               <div class="">
-                  <img class="img-fluid" src="../assets/k.jpg" alt="Kelly photo" />
+                  <img class="img-fluid rounded" src="../assets/k.jpg" alt="Kelly photo" />
               </div>
           </div>
       </div>
